@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"hand_cube","path":"sprites/hand_cube/hand_cube.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "hand_cube",
     "tags": [],
     "resourceType": "GMSequence",

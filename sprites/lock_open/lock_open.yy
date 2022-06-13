@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"lock_open","path":"sprites/lock_open/lock_open.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "lock_open",
     "tags": [],
     "resourceType": "GMSequence",

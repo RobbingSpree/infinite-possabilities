@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"hand_token","path":"sprites/hand_token/hand_token.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "hand_token",
     "tags": [],
     "resourceType": "GMSequence",

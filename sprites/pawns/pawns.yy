@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"pawns","path":"sprites/pawns/pawns.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "pawns",
     "tags": [],
     "resourceType": "GMSequence",

@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"structure_gate","path":"sprites/structure_gate/structure_gate.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "structure_gate",
     "tags": [],
     "resourceType": "GMSequence",

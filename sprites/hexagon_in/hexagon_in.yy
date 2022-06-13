@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"hexagon_in","path":"sprites/hexagon_in/hexagon_in.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "hexagon_in",
     "tags": [],
     "resourceType": "GMSequence",

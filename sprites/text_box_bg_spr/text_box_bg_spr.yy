@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"text_box_bg_spr","path":"sprites/text_box_bg_spr/text_box_bg_spr.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "text_box_bg_spr",
     "tags": [],
     "resourceType": "GMSequence",

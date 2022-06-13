@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"direction_s","path":"sprites/direction_s/direction_s.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "direction_s",
     "tags": [],
     "resourceType": "GMSequence",

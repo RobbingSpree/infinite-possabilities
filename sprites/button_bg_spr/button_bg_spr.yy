@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"button_bg_spr","path":"sprites/button_bg_spr/button_bg_spr.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "button_bg_spr",
     "tags": [],
     "resourceType": "GMSequence",

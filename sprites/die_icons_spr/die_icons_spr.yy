@@ -83,7 +83,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"die_icons_spr","path":"sprites/die_icons_spr/die_icons_spr.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "die_icons_spr",
     "tags": [],
     "resourceType": "GMSequence",

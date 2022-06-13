@@ -91,7 +91,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"text_box_spr","path":"sprites/text_box_spr/text_box_spr.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "text_box_spr",
     "tags": [],
     "resourceType": "GMSequence",

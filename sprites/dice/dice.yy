@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"dice","path":"sprites/dice/dice.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "dice",
     "tags": [],
     "resourceType": "GMSequence",

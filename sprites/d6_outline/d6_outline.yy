@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"d6_outline","path":"sprites/d6_outline/d6_outline.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "d6_outline",
     "tags": [],
     "resourceType": "GMSequence",

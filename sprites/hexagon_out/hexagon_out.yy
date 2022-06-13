@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"hexagon_out","path":"sprites/hexagon_out/hexagon_out.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "hexagon_out",
     "tags": [],
     "resourceType": "GMSequence",

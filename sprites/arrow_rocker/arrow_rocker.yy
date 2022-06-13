@@ -67,7 +67,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"arrow_rocker","path":"sprites/arrow_rocker/arrow_rocker.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "arrow_rocker",
     "tags": [],
     "resourceType": "GMSequence",

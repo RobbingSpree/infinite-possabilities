@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"dice_3D","path":"sprites/dice_3D/dice_3D.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "dice_3D",
     "tags": [],
     "resourceType": "GMSequence",

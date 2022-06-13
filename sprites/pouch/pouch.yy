@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"pouch","path":"sprites/pouch/pouch.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "pouch",
     "tags": [],
     "resourceType": "GMSequence",

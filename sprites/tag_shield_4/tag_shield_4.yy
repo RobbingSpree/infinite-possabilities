@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"tag_shield_4","path":"sprites/tag_shield_4/tag_shield_4.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "tag_shield_4",
     "tags": [],
     "resourceType": "GMSequence",

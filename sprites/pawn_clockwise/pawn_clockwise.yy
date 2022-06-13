@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"pawn_clockwise","path":"sprites/pawn_clockwise/pawn_clockwise.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "pawn_clockwise",
     "tags": [],
     "resourceType": "GMSequence",
